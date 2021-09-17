@@ -1,4 +1,7 @@
-´´´Python
+![codewars](https://www.codewars.com/users/gcherchye/badges/micro)
+
+--------
+```Python
 class GoodyeAAr(DataScientist):
     """Instanciate your own GoodyeAAr at home !"""
     
@@ -12,4 +15,4 @@ class GoodyeAAr(DataScientist):
             'SQL': 'Advanced',
             'bash': 'Intermediate',
         ]
-´´´
+```
